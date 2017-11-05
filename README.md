@@ -1,0 +1,2 @@
+# Pixelization
+Pixelization is a process that decreases the resolution of an image or video with specific algorythms, thus achieving an image or video containing a smaller amount of pixels. The world of pixelart is a popular topic nowadays. Several image editing applications have built-in modules for creating pixelart from high quality images. In these editors algorythms range from the simplest to the more complex ones.
